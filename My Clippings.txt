@@ -119,3 +119,138 @@ Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
 
 It’s the news’ job to make you anxious and angry. But its underlying scientific, economic, education, and conflict trends are positive. Stay optimistic.
 ==========
+emotions-in-hci  
+- Your Highlight on page 4-4 | Added on Wednesday, 6 December 2023 08:33:34
+
+What is emotion? Although the research literature offers a plethora of definitions (Kleinginna & Kleinginna, 1981), two generally agreed-upon aspects of emotion stand out: 1) emotion is a reaction to events deemed relevant to the needs, goals, or concerns of an individual; and, 2) emotion encompasses physiological, affective, behavioral, and cognitive components
+==========
+emotions-in-hci  
+- Your Highlight on page 9-9 | Added on Wednesday, 6 December 2023 08:34:43
+
+Emotion can be distinguished from mood by its object-directedness. As Frijda (1994) explains, emotions are intentional: They “imply and involve relationships with a particular object.” We get scared of something, angry at someone, and excited about some event. Moods, on the other hand, though they may be indirectly caused by a particular object, are “nonintentional”; they are not directed at any object in particular and are thus experienced as more diffuse, global, and general. A person can be sad about something (an emotion) or generally depressed (a mood). Unfortunately, the English language often allows the same term to describe both emotion and mood (e.g., “happy”
+==========
+emotions-in-hci  
+- Your Highlight on page 9-9 | Added on Wednesday, 6 December 2023 08:35:20
+
+Another distinction between emotion and mood emerges from a functional perspective. As a reaction to a particular situation, emotions bias action—they prepare the body and the mind for an appropriate, immediate response. As such, emotions also tend to be relatively short-lived. Moods, in contrast, tend to bias cognitive strategies and processing over a longer term (Davidson, 1994). More generally, moods can be seen to serve as a background affective filter through which both internal and external events are appraised. A person in a good mood tends to view everything in a positive light, while a person in a bad mood does the opposite. The interaction between
+==========
+emotions-in-hci  
+- Your Highlight on page 10-10 | Added on Wednesday, 6 December 2023 08:35:31
+
+emotions and moods is also important. Moods tend to bias which emotions are experienced, lowering the activation thresholds for mood-related emotions. Emotions, on the other hand, often cause or contribute to moods.
+==========
+emotions-in-hci  
+- Your Highlight on page 10-10 | Added on Wednesday, 6 December 2023 08:36:12
+
+Sentiment Sentiment is also often confused with emotion. Unlike emotions (and moods), sentiments are not states of an individual, but assigned properties of an object. When a person says that they “like” an interface or find an interface to be “frustrating,” what they really mean is that that they associate the interface with a positive or frustrating emotional state; in other words, they expect interaction with the interface to lead to positive or frustrating emotions. The basis for this judgment often comes from direct experience and subsequent generalization, but may also arise from social learning
+==========
+emotions-in-hci  
+- Your Highlight on page 11-11 | Added on Wednesday, 6 December 2023 08:36:40
+
+11 Emotion in Human-Computer Interaction One
+==========
+emotions-in-hci  
+- Your Highlight on page 11-11 | Added on Wednesday, 6 December 2023 08:37:04
+
+11 Emotion in Human-Computer Interaction One reason for the confusion between emotions and sentiment is that many languages use the same words for both. For example, the word “like” can be used both to indicate prediction or opinion (sentiment) as well as a current emotional state (e.g. “I like receiving email” vs. “I like the email that just arrived”). Clore (1994, p. 108) offers an interesting explanation for this ambiguity, theorizing that sentiments are judged by bringing the object to mind and observing the affective reaction. But, while emotions and moods are fleeting—emotions lasting only seconds and moods lasting for hours or even days—sentiments can persist indefinitely and are thus responsible for guiding our propensities to seek out or avoid particular objects and situations. In this sense, sentiments are of critical importance for HCI because they motivate users to return to particular software products or websites.
+==========
+emotions-in-hci  
+- Your Highlight on page 11-11 | Added on Wednesday, 6 December 2023 08:37:29
+
+One reason for the confusion between emotions and sentiment is that many languages use the same words for both. For example, the word “like” can be used both to indicate prediction or opinion (sentiment) as well as a current emotional state (e.g. “I like receiving email” vs. “I like the email that just arrived”). Clore (1994, p. 108) offers an interesting explanation for this ambiguity, theorizing that sentiments are judged by bringing the object to mind and observing the affective reaction. But, while emotions and moods are fleeting—emotions lasting only seconds and moods lasting for hours or even days—sentiments can persist indefinitely and are thus responsible for guiding our propensities to seek out or avoid particular objects and situations. In this sense, sentiments are of critical importance for HCI because they motivate users to return to particular software products or websites.
+==========
+emotions-in-hci  
+- Your Highlight on page 11-11 | Added on Wednesday, 6 December 2023 08:38:04
+
+Although direct interaction with an object is the most accurate way for a user to create a sentiment—consider the colloquial phrase, “how do you know you don’t like it unless you try it”—sentiments can also be caused by assumptions based on the communicated properties of an object. A person may, for example, base a sentiment on someone else’s description of their interaction with the object, or even immediately adopt the sentiment of someone they know or respect (e.g., consider the presumed influence of celebrities in software advertisements). As a predictive construct, sentiments are often generalizations about a class of objects with a given recognizable property, i.e., stereotypes. Although some of these generalizations may be logical and accurate, others may not—in fact, they may not even be conscious. Negative experiences with a particular computer character, for example, may lead users to conclude that they dislike all character-based interfaces. However, using a character that people know and like already—Mickey Mouse, for example—may be able to leverage sentiment to an interface’s advantage. Similarly, many people have well-established sentiments regarding certain types of applications, e.g. “I hate spreadsheet applications.”
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 25 | location 213-215 | Added on Thursday, 7 December 2023 07:53:53
+
+Seek wealth, not money or status. Wealth is having assets that earn while you sleep. Money is how we transfer time and wealth. Status is your place in the social hierarchy.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 29 | location 247-248 | Added on Thursday, 7 December 2023 07:54:47
+
+Labor means people working for you. It’s the oldest and most fought-over form of leverage. Labor leverage will impress your parents, but don’t waste your life chasing it.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 31 | location 260-260 | Added on Thursday, 7 December 2023 07:55:21
+
+Study microeconomics, game theory, psychology, persuasion, ethics, mathematics, and computers.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 54 | location 475-475 | Added on Thursday, 7 December 2023 14:07:02
+
+If they can train you to do it, then eventually they will train a computer to do it.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 61 | location 555-556 | Added on Thursday, 7 December 2023 14:08:11
+
+Earn with your mind, not your time.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 72 | location 688-689 | Added on Thursday, 7 December 2023 14:08:52
+
+An old boss once warned: “You’ll never be rich since you’re obviously smart, and someone will always offer you a job that’s just good enough.”
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 90 | location 872-873 | Added on Thursday, 7 December 2023 14:10:22
+
+You don’t get rich by spending your time to save money. You get rich by saving your time to make money.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 112 | location 1088-1089 | Added on Thursday, 7 December 2023 14:12:49
+
+Reading a book isn’t a race—the better the book, the more slowly it should be absorbed.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 115 | location 1121-1123 | Added on Thursday, 7 December 2023 14:13:15
+
+It’s not about “educated” vs. “uneducated.” It’s about “likes to read” and “doesn’t like to read.”
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 122 | location 1186-1187 | Added on Thursday, 7 December 2023 14:14:13
+
+Don’t take yourself so seriously. You’re just a monkey with a plan.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 137 | location 1352-1353 | Added on Thursday, 7 December 2023 14:17:42
+
+You can get almost anything you want out of life, as long as it’s one thing and you want it far more than anything else.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 139 | location 1368-1370 | Added on Thursday, 7 December 2023 14:18:41
+
+The reality is life is a single-player game. You’re born alone. You’re going to die alone. All of your interpretations are alone. All your memories are alone. You’re gone in three generations, and nobody cares. Before you showed up, nobody cared. It’s all single player.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 160 | location 1576-1577 | Added on Friday, 8 December 2023 06:14:25
+
+The harder the workout, the easier the day.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 164 | location 1605-1606 | Added on Friday, 8 December 2023 06:15:11
+
+An emotion is our evolved biology predicting the future impact of a current event. In modern settings, it’s usually exaggerated or wrong.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 176 | location 1761-1762 | Added on Friday, 8 December 2023 06:16:00
+
+To have peace of mind, you have to have peace of body first.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 178 | location 1782-1782 | Added on Friday, 8 December 2023 06:16:10
+
+Impatience with actions, patience with results.
+==========
+Eric-Jorgenson_The-Almanack-of-Naval-Ravikant_EBOOK_v103 (Eric Jorgenson)
+- Your Highlight on page 224 | location 2228-2229 | Added on Friday, 8 December 2023 06:19:16
+
+Health, love, and your mission, in that order. Nothing else matters.
+==========
+The-Design-of-Everyday-Things-Revised-and-Expanded-Edition  
+- Your Bookmark on page 68 | Added on Friday, 8 December 2023 06:25:12
+
+
+==========
